@@ -1,9 +1,9 @@
 package persistence
 
 import (
-	"ws-baseline-golang-v2/domain/dto"
-	"ws-baseline-golang-v2/domain/entity"
-	"ws-baseline-golang-v2/utils"
+	"ws-baseline-golang/domain/dto"
+	"ws-baseline-golang/domain/entity"
+	"ws-baseline-golang/utils"
 
 	"github.com/jinzhu/gorm"
 	"gopkg.in/jeevatkm/go-model.v1"

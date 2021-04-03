@@ -3,11 +3,11 @@ package service
 import (
 	"log"
 	"net/http"
-	"ws-baseline-golang-v2/domain/component/errorException"
-	"ws-baseline-golang-v2/domain/dto"
-	persistence "ws-baseline-golang-v2/infrastructure/persistence/db"
-	"ws-baseline-golang-v2/infrastructure/repository"
-	"ws-baseline-golang-v2/utils"
+	"ws-baseline-golang/domain/component/errorException"
+	"ws-baseline-golang/domain/dto"
+	persistence "ws-baseline-golang/infrastructure/persistence/db"
+	"ws-baseline-golang/infrastructure/repository"
+	"ws-baseline-golang/utils"
 
 	"gopkg.in/jeevatkm/go-model.v1"
 )

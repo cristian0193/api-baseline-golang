@@ -2,10 +2,10 @@ package persistence
 
 import (
 	"fmt"
-	"ws-baseline-golang-v2/domain/entity"
-	"ws-baseline-golang-v2/infrastructure/persistence"
-	"ws-baseline-golang-v2/infrastructure/repository"
-	"ws-baseline-golang-v2/utils"
+	"ws-baseline-golang/domain/entity"
+	"ws-baseline-golang/infrastructure/persistence"
+	"ws-baseline-golang/infrastructure/repository"
+	"ws-baseline-golang/utils"
 
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"

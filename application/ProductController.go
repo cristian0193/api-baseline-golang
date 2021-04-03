@@ -3,9 +3,9 @@ package application
 import (
 	"net/http"
 	"os"
-	"ws-baseline-golang-v2/business/service"
-	"ws-baseline-golang-v2/domain/dto"
-	"ws-baseline-golang-v2/utils"
+	"ws-baseline-golang/business/service"
+	"ws-baseline-golang/domain/dto"
+	"ws-baseline-golang/utils"
 
 	"github.com/gin-gonic/gin"
 )

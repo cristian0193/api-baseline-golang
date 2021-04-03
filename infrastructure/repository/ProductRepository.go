@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"ws-baseline-golang-v2/domain/dto"
-	"ws-baseline-golang-v2/domain/entity"
+	"ws-baseline-golang/domain/dto"
+	"ws-baseline-golang/domain/entity"
 )
 
 type ProductRepository interface {

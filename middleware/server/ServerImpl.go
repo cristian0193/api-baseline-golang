@@ -3,9 +3,9 @@ package server
 import (
 	"log"
 	"os"
-	"ws-baseline-golang-v2/application"
-	"ws-baseline-golang-v2/docs"
-	"ws-baseline-golang-v2/middleware"
+	"ws-baseline-golang/application"
+	"ws-baseline-golang/docs"
+	"ws-baseline-golang/middleware"
 
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"

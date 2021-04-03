@@ -1,4 +1,4 @@
-module ws-baseline-golang-v2
+module ws-baseline-golang
 
 go 1.15
 

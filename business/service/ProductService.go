@@ -1,7 +1,7 @@
 package service
 
 import (
-	"ws-baseline-golang-v2/domain/dto"
+	"ws-baseline-golang/domain/dto"
 )
 
 type ProductService interface {

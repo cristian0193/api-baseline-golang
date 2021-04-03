@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"ws-baseline-golang-v2/domain/dto"
+	"ws-baseline-golang/domain/dto"
 
 	"github.com/gin-gonic/gin"
 	jaeger "github.com/uber/jaeger-client-go"

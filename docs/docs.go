@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"strings"
-	"ws-baseline-golang-v2/utils"
+	"ws-baseline-golang/utils"
 
 	"github.com/alecthomas/template"
 	"github.com/swaggo/swag"
