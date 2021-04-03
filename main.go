@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"ws-baseline-golang-v2/middleware/server"
+	"ws-baseline-golang/middleware/server"
 
 	"github.com/joho/godotenv"
 )
